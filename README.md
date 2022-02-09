@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KateAlsbury
-- 👀 I’m interested in - programming (obviuosly!) music and game design, nature, and the arts
+- 👀 I’m interested in - programming (obviuosly!) electronic music and game design, nature, and the arts
 - 🌱 I’m currently learning - Python
 - 💞️ I’m looking to collaborate on - open to suggestion
 - 📫 How to reach me : email katealsbury@gmail.com
